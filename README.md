@@ -41,7 +41,8 @@ I am a certified **Civil Service Professional** with a strong foundation in ente
   <img src="https://github-readme-stats.shion.dev/api?username=jmnadado-jmn&show_icons=true&theme=radial&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jmnadado-jmn&layout=compact&theme=radial" alt="Top Languages" />
-  https://github-readme-stats.shion.dev/api?username=jmnadado-jmn
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api?username=jmnadado-jmn"/>
 </div>
 
 ---
